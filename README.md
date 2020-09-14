@@ -5,7 +5,8 @@ The company Pewlett Hackard has previously used Excel and VBA to sort through mo
 The purpose of this analysis is for Bobby, the sample employee of Pewlett Hackard, to provide his manager with some data sorted by SQL to show the number of retiring employees by title and the employees eligible for their mentorship program.
 # Analysis
 Please take a look at this visual from Deliverable 1:
-IMAGE PLEASE LINK IT UP
+![retiring_titles_d1.png](https://github.com/allysakarr/Pewlett-Hackard-Analysis/blob/master/retiring_titles_d1.png?raw=true)
+
 * According to the data in the final table of deliverable 1, the jobs that are going to be least in demand are managers as there are only 2 that are of retiring age.
 * From the final table of deliverable 1, the table explicitly shows that Senior Engineers are the jobs that will be impacted the most by the loss of employees due to retirement. 29414 Senior Engineer employees are of retiring age.
 * According to the data in the final table of deliverable 1, the jobs that will be second in most demand are the Senior Staff members. 28254 Senior Staff employees are of retiring age.
